@@ -3880,3 +3880,28 @@ input, select, textarea {
 		}
 
 	}
+
+	.features {
+  	display: flex;
+  	flex-wrap: wrap;
+  	gap: 0;
+	
+  }
+
+  .org-logo {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 10px;
+    object-fit: contain;
+  }
+
+  .leadership-panel ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .leadership-panel ul li span {
+    flex: 1;
+  }
