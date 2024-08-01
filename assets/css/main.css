@@ -2336,7 +2336,7 @@ input, select, textarea {
 		}
 
 		.icon > .label {
-			display: none;
+			display: none;			
 		}
 
 		.icon.solid:before {
@@ -3948,4 +3948,23 @@ input, select, textarea {
 
   .project-info a.icon.brands.fa-github:before {
     margin-right: 0.5rem;
+  }
+
+  footer .items .icons {
+    padding-left: 0;
+    margin-left: -0.8rem;
+  }
+
+  footer .items .icons li {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+
+  footer .items .icons a.icon {
+    font-size: 1.25rem;
+    transition: color 0.2s ease-in-out;
+  }
+
+  footer .items .icons a.icon:hover {
+    color: #2ee4bb;
   }
