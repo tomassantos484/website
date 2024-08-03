@@ -1,8 +1,9 @@
 # The Official Website of Tomas J. Santos Yciano
 
-I have released v1.0 of my personal website! 
+Welcome to my personal protfolio website! Visit here: https://www.tjsy.dev
 
 Tech Stack:
+
 - HTML/CSS
 - JavaScript
 - SASS
